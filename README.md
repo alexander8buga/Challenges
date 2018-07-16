@@ -1,2 +1,2 @@
 # Challenges
-# In this folder I show my solutions to my challendes, Hackerrank, Codility, etc.
+# In this folder I show my solutions to challenges from Hackerrank, Codility, etc.
